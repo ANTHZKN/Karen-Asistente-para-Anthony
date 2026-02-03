@@ -1,0 +1,8 @@
+{
+  "name": "KAREN - Futuristic AI Assistant",
+  "description": "A high-tech, futuristic assistant for chat, study management, and project mind-mapping with voice integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
